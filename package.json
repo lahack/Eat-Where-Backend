@@ -1,0 +1,23 @@
+{
+  "name": "eat-where-backend",
+  "version": "1.0.0",
+  "description": "backend for Eat-Where-App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lahack/Eat-Where-Backend.git"
+  },
+  "author": "Shuaiging Luo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lahack/Eat-Where-Backend/issues"
+  },
+  "homepage": "https://github.com/lahack/Eat-Where-Backend#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^14.3.1"
+  }
+}
